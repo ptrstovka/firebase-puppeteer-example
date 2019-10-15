@@ -1,0 +1,12 @@
+{
+  "name": "firebase-puppeteer",
+  "version": "1.0.0",
+  "description": "Firebase puppeteer setup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Stovka",
+  "license": "MIT",
+  "dependencies": {}
+}
